@@ -1,4 +1,4 @@
-#include <stdio.h>
+﻿#include <stdio.h>
 #include <stdlib.h>
 
 double* convertTemperature(double celsius,int* returnSize)
